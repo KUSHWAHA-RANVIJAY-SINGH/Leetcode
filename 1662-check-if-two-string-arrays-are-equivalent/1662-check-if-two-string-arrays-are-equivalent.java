@@ -9,11 +9,11 @@ class Solution {
       if (word1[i].charAt(a) != word2[j].charAt(b))
         return false;
       if (++a == word1[i].length()) {
-        ++i;
+        i++;
         a = 0;
       }
       if (++b == word2[j].length()) {
-        ++j;
+        j++;
         b = 0;
       }
     }
