@@ -1,27 +1,29 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int i = 0;
+        int size = nums.length;
 
-        while (i < nums.length) {
-            if (nums[i] < nums.length && nums[i] != nums[nums[i]]) {
-                swap(nums, i, nums[i]);
-            } else {
-                i++;
+        // bubble sort
+        for (int i = 0; i < size; ++i) {
+            for (int j = 0; j < size - i - 1; ++j) {
+                if (nums[j] > nums[j + 1]) {
+                    swap(nums, j, j + 1);
+                }
             }
         }
 
-        for (i = 0; i < nums.length; ++i) {
-            if (nums[i] != i) {
+        // find the first item's value and its index is different
+        for (int i = 0; i < size; ++i) {
+            if (i != nums[i]) {
                 return i;
             }
         }
 
-        return nums.length;
+        return size;
     }
 
-    private void swap(int[] nums, int i, int j) {
-        int tmp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = tmp;
+    private void swap(int[] nums, int x, int y) {
+        int tmp = nums[x];
+        nums[x] = nums[y];
+        nums[y] = tmp;
     }
 }
