@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0229-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0062-unique-paths) |
+## Hash Table
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
