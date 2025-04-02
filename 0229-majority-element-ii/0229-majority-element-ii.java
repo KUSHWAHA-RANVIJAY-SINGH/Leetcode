@@ -1,43 +1,21 @@
-import java.util.ArrayList;
-import java.util.List;
-
-public class Solution {
+class Solution {
     public List<Integer> majorityElement(int[] nums) {
-        List<Integer> res = new ArrayList<>();
-        if (nums.length == 0)
-            return res;
-        int num1 = 0;
-        int num2 = 0;
-        int size1 = 0;
-        int size2 = 0;
-        for (int i = 0; i < nums.length; ++i) {
-            if (size1 > 0 && num1 == nums[i]) {
-                size1++;
-            } else if (size2 > 0 && num2 == nums[i]) {
-                size2++;
-            } else if (size1 == 0) {
-                num1 = nums[i];
-                size1++;
-            } else if (size2 == 0) {
-                num2 = nums[i];
-                size2++;
-            } else {
-                size1--;
-                size2--;
+        int n = nums.length;
+        List<Integer> ls = new ArrayList<>();
+
+        HashMap<Integer,Integer> mpp = new HashMap<>();
+
+        int mini = (int)(n/3)+1;
+
+        for(int i=0;i<n;i++){
+            int value = mpp.getOrDefault(nums[i], 0);
+            mpp.put(nums[i],value+1);
+
+            if(mpp.get(nums[i])==mini){
+                ls.add(nums[i]);
             }
+            if(ls.size()==2) break;
         }
-        int count1 = 0;
-        int count2 = 0;
-        for (int i = 0; i < nums.length; ++i) {
-            if (nums[i] == num1)
-                count1++;
-            else if (nums[i] == num2)
-                count2++;
-        }
-        if (count1 > nums.length / 3)
-            res.add(num1);
-        if (count2 > nums.length / 3)
-            res.add(num2);
-        return res;
+        return ls;
     }
 }
