@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0046-permutations](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0229-majority-element-ii) |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0229-majority-element-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
