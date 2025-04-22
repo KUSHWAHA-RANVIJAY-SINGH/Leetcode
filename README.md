@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0062-unique-paths) |
+| [0095-unique-binary-search-trees-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## String
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Design
 |  |
@@ -110,10 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Iterator
 |  |
