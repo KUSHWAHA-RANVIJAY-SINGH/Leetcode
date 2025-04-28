@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0290-word-pattern) |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
