@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0079-word-search) |
 ## Math
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## String
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0179-largest-number) |
@@ -169,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0179-largest-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
