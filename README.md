@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0120-triangle](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0120-triangle) |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 ## Combinatorics
 |  |
 | ------- |
