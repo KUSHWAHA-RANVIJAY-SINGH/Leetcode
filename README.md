@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0347-top-k-frequent-elements](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0946-smallest-range-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0946-smallest-range-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0946-smallest-range-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0946-smallest-range-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0946-smallest-range-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0946-smallest-range-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0179-largest-number) |
+| [0946-smallest-range-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0946-smallest-range-ii) |
 ## Depth-First Search
 |  |
 | ------- |
