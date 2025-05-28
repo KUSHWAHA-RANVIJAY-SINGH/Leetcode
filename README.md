@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0229-majority-element-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0290-word-pattern) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Search Tree
 |  |
@@ -215,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
