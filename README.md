@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0946-smallest-range-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0946-smallest-range-ii) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
