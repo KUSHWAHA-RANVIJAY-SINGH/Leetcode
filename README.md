@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0120-triangle](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0120-triangle) |
+| [0131-palindrome-partitioning](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 ## Combinatorics
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0131-palindrome-partitioning](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0216-combination-sum-iii) |
 ## String
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0179-largest-number) |
