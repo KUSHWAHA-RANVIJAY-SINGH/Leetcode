@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0179-largest-number) |
 | [0216-combination-sum-iii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0220-contains-duplicate-iii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0221-maximal-square](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0079-word-search) |
+| [0221-maximal-square](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Math
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0120-triangle](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0221-maximal-square](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 ## Combinatorics
