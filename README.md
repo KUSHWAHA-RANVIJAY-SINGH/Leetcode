@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0055-jump-game) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0146-lru-cache) |
