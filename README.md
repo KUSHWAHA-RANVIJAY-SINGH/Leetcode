@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Tree
