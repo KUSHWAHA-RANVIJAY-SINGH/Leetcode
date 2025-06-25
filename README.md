@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0055-jump-game) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Tree
@@ -290,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0220-contains-duplicate-iii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
