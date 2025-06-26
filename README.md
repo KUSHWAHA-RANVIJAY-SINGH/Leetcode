@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0137-single-number-ii) |
+| [0140-word-break-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0179-largest-number) |
 | [0216-combination-sum-iii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0140-word-break-ii) |
 | [0221-maximal-square](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0140-word-break-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0216-combination-sum-iii) |
 ## String
 |  |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -289,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Ordered Set
 |  |
@@ -298,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0042-trapping-rain-water) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
