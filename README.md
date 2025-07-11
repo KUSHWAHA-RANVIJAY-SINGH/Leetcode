@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0241-different-ways-to-add-parentheses](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0357-count-numbers-with-unique-digits](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0946-smallest-range-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0946-smallest-range-ii) |
 ## Dynamic Programming
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0357-count-numbers-with-unique-digits](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Combinatorics
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/KUSHWAHA-RANVIJAY-SINGH/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## String
 |  |
 | ------- |
